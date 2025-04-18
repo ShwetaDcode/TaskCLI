@@ -9,27 +9,6 @@ C++ developed Command Line Interface (CLI) task management application. The appl
 - Delete tasks from the list.
 - Persistent task storage in a text file (`tasks.txt`).
 
-## Directory Structure 
-TaskCLI/
-│
-├── main/                # Main application entry point
-│   └── main.cpp         # Main function and program flow
-│
-├── task/                # Task class definition and implementation
-│   ├── Task.cpp         # Task class implementation
-│   └── Task.hpp         # Task class header (declaration)
-│
-├── manager/             # Task manager (handles tasks management operations)
-│   ├── TaskManager.cpp  # TaskManager class implementation
-│   └── TaskManager.hpp  # TaskManager class header
-│
-├── utils/               # Utility functions like showing help
-│   ├── Utils.cpp        # Utility function implementation
-│   └── Utils.hpp        # Utility function header (declaration)
-│
-└── Makefile             # Makefile for building the project
-
-
 ## Prerequisites
 To run this project, you need:
 - A C++17 compatible compiler (e.g., `g++`).
@@ -44,3 +23,13 @@ Clone this repository to your local machine using the following command:
 ```bash
 git clone https://github.com/your-username/TaskCLI.git
 cd TaskCLI
+```
+
+## **Contact**
+
+Connect me at: shwetadas9874@gmail.com
+
+## **Portfolio**
+
+[https://shwetadcode.github.io/Shweta/](https://shwetadcode.github.io/Shweta/)
+
